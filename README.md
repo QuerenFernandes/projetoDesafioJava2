@@ -1,17 +1,7 @@
-# Nome do meu projeto
+# Projeto Desafio 
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto realizado através do desafio proposto no curso da alura. Fiz a criação de uma aplicação na qual apliquei os conceitos de herança (onde a classe Musica e a classe Podcast herdam da classe Audio), apliquei a abstração (a classe Audio contém das características em comum). O encapsulamento foi usado na proteção das variáveis, usando os getters e setters, e o polimorfismo foi usado no uso de métodos herdados da classe mãe, mas aplicados de forma específica em cada classe.  Também foi elaborado alguns cálculos que medem a classificação do filme e do podcast indicando o nível de aceitação dos mesmos.
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+Segue imagem demonstrativa do resultado no terminal:
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+![java](https://user-images.githubusercontent.com/95857175/235223626-eccfefdb-c220-46b7-88fe-d5f9f908f022.png)
