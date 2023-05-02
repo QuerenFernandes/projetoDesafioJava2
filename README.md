@@ -4,4 +4,4 @@ Projeto realizado através do desafio proposto no curso da alura. Fiz a criaçã
 
 Segue imagem demonstrativa do resultado no terminal:
 
-![java](https://user-images.githubusercontent.com/95857175/235223626-eccfefdb-c220-46b7-88fe-d5f9f908f022.png)
+![java](https://user-images.githubusercontent.com/95857175/235223626-eccfefdb-c220-46b7-88fe-d5f9f908f022.png#vitrinedev)
